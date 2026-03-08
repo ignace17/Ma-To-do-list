@@ -1,6 +1,6 @@
 # ✅ Ma Todo List 
 
-Une application web interactive pour organiser ses tâches quotidiennes. Ce projet démontre ma capacité à gérer l'interaction utilisateur et le stockage de données côté client.
+Un espace web interactive pour organiser ses tâches quotidiennes. Ce projet démontre ma capacité à gérer l'interaction utilisateur et le stockage de données côté client.
 
 ### 🚀 Fonctionnalités
 - **Ajout rapide** : Création de tâches en un clic.
@@ -11,4 +11,5 @@ Une application web interactive pour organiser ses tâches quotidiennes. Ce proj
 ### 🛠️ Technologies utilisées
 - HTML5 / CSS3
 - JavaScript (Manipulation du DOM)
+
 - LocalStorage API
